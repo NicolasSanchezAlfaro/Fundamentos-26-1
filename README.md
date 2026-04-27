@@ -1,13 +1,13 @@
-# Mis Prácticas de C++ 🚀
+# Mis Prácticas de programacion 🚀
 
-Hola, soy **Nicolas Messi Sanchez Alfaro**, de la **Sección A** del curso **Fundamentos de la Programación**. 
+Hola, soy **Nicolas Messi Sanchez Alfaro**.
 
-En este repositorio guardo todos mis avances, ejercicios y proyectos desarrollados durante el ciclo académico.
+En este repositorio guardo todos mis avances, ejercicios y proyectos desarrollados durante mi formacion en la programación.
 
 ---
 ## 🛠️ Herramientas utilizadas
 
-* **Sistema Operativo:** Ubuntu Linux
+* **Sistema Operativo:** Ubuntu Linux y Windows 11 
 * **Editor:** Visual Studio Code
 * **Compilador:** GCC (g++)
 * **Control de versiones:** Git y GitHub
